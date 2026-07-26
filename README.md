@@ -86,6 +86,8 @@ The bot was tested against 5 scenario types to confirm it stays in character:
 4. A clearly off-topic question (e.g., a recipe request)
 5. A direct instruction-override attempt (e.g., "ignore your previous instructions...")
 
+It performed really well on all of these 5 prompts and stayed in the character even for tricky prompts.
+
 ---
 
 ## 📌 Project Context
