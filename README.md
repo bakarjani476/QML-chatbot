@@ -8,7 +8,7 @@ A custom AI chatbot built with a persona-driven system prompt, created as part o
 
 ## 🎥 Demo Video
 
-📺 **LinkedIn demo:** [ADD_LINKEDIN_VIDEO_URL_HERE]
+📺 **LinkedIn demo:** (https://www.linkedin.com/posts/muhammad-abubakar476_generativeai-promptengineering-quantummachinelearning-ugcPost-7487549768592908288-eZBE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGBrBqsBKmAJqRrR7agFwG_FujXRHFQF5QI)
 
 ---
 
